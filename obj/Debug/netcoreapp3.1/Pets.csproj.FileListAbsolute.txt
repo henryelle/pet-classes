@@ -1,0 +1,11 @@
+/Users/tre/Pets/obj/Debug/netcoreapp3.1/Pets.csprojAssemblyReference.cache
+/Users/tre/Pets/obj/Debug/netcoreapp3.1/Pets.AssemblyInfoInputs.cache
+/Users/tre/Pets/obj/Debug/netcoreapp3.1/Pets.AssemblyInfo.cs
+/Users/tre/Pets/bin/Debug/netcoreapp3.1/Pets
+/Users/tre/Pets/bin/Debug/netcoreapp3.1/Pets.deps.json
+/Users/tre/Pets/bin/Debug/netcoreapp3.1/Pets.runtimeconfig.json
+/Users/tre/Pets/bin/Debug/netcoreapp3.1/Pets.runtimeconfig.dev.json
+/Users/tre/Pets/bin/Debug/netcoreapp3.1/Pets.dll
+/Users/tre/Pets/bin/Debug/netcoreapp3.1/Pets.pdb
+/Users/tre/Pets/obj/Debug/netcoreapp3.1/Pets.dll
+/Users/tre/Pets/obj/Debug/netcoreapp3.1/Pets.pdb
